@@ -69,6 +69,9 @@ The feature selection techniques used are:
 
 ![image](https://github.com/SamyukthaSreenivasan/EXNO-4-DS/assets/119475703/e39261c9-fcf4-4aaa-9abb-9ceb0b1d5bed)
 
+![image](https://github.com/SamyukthaSreenivasan/EXNO-4-DS/assets/119475703/01b6908a-22f6-4ffe-9a6a-a066ee406cad)
+
+![image](https://github.com/SamyukthaSreenivasan/EXNO-4-DS/assets/119475703/bd40332c-e997-4618-82e1-f33d78ee5af9)
 
 # RESULT:
 Thus the program to read the given data and perform Feature Scaling and Feature Selection process and save the data to a file is been executed.
